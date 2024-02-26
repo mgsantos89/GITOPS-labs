@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: mgsantos89/gitopsfc
-  newTag: 0d3f35a9097c4eaf6e83fe4ed999e7f2c48f22e1
+  newTag: 5d50651b0929a671b400b33c96ec6489d916873f
